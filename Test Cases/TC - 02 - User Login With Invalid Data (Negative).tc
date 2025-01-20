@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User cannot login to the website with invalid data</description>
+   <name>TC - 02 - User Login With Invalid Data (Negative)</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba097e4c-858e-44cf-ac1a-8df571c5ab1b</testCaseGuid>
+</TestCaseEntity>

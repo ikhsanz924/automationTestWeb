@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can login with valid data to website</description>
+   <name>TC - 01 - User Login With Valid Data (Positive)</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>659f685e-c4d8-4b03-861f-db50ad834060</testCaseGuid>
+</TestCaseEntity>

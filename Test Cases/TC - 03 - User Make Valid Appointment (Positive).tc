@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can make appointment with valid data</description>
+   <name>TC - 03 - User Make Valid Appointment (Positive)</name>
+   <tag>Appointment</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>854b41ee-79f3-47a2-831a-17b2603789e9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f186a99c-be78-465c-aef3-958b1fa17a47</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Test Data Appointment</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>dd2cf6f6-dd63-474f-a129-89bfe7bd7287</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>d6cf2465-83ce-480e-aabc-351c2371c018</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0dbf1679-87c2-448f-8245-a40a8042f943</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e6386dd-55c7-4305-9e2f-20eeae2b8318</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>dd2cf6f6-dd63-474f-a129-89bfe7bd7287</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'radio_program_medicaid'</defaultValue>
+      <description></description>
+      <id>d6cf2465-83ce-480e-aabc-351c2371c018</id>
+      <masked>false</masked>
+      <name>healthcare_program</name>
+   </variable>
+   <variable>
+      <defaultValue>'20/01/2025'</defaultValue>
+      <description></description>
+      <id>0dbf1679-87c2-448f-8245-a40a8042f943</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is comment testing'</defaultValue>
+      <description></description>
+      <id>0e6386dd-55c7-4305-9e2f-20eeae2b8318</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
