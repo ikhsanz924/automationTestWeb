@@ -24,4 +24,9 @@
       <initValue>'https://katalon-demo-cura.herokuapp.com/#appointment'</initValue>
       <name>APPOINT_URL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'radio_program_medicaid'</initValue>
+      <name>HEALTHCARE_PROGRAM</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
